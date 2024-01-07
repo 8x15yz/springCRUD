@@ -1,4 +1,4 @@
-package com.example.kiosk24.entity;
+package com.example.article1.entity;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

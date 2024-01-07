@@ -1,13 +1,13 @@
-package com.example.kiosk24;
+package com.example.article1;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Kiosk24Application {
+public class Article1Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Kiosk24Application.class, args);
+		SpringApplication.run(Article1Application.class, args);
 	}
 
 }

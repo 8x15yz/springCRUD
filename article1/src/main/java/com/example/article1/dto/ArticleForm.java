@@ -1,6 +1,6 @@
-package com.example.kiosk24.dto;
+package com.example.article1.dto;
 
-import com.example.kiosk24.entity.Article;
+import com.example.article1.entity.Article;
 
 public class ArticleForm {
     private String title;

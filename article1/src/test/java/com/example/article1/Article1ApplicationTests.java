@@ -1,10 +1,10 @@
-package com.example.kiosk24;
+package com.example.article1;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class Kiosk24ApplicationTests {
+class Article1ApplicationTests {
 
 	@Test
 	void contextLoads() {

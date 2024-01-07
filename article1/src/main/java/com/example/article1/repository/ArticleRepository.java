@@ -1,6 +1,6 @@
-package com.example.kiosk24.repository;
+package com.example.article1.repository;
 
-import com.example.kiosk24.entity.Article;
+import com.example.article1.entity.Article;
 import org.springframework.data.repository.CrudRepository;
 
 public interface ArticleRepository extends CrudRepository<Article, Long> {

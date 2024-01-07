@@ -1,10 +1,9 @@
-package com.example.kiosk24.controller;
+package com.example.article1.contoroller;
 
-import com.example.kiosk24.dto.ArticleForm;
-import com.example.kiosk24.entity.Article;
-import com.example.kiosk24.repository.ArticleRepository;
+import com.example.article1.dto.ArticleForm;
+import com.example.article1.entity.Article;
+import com.example.article1.repository.ArticleRepository;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.boot.autoconfigure.AutoConfiguration;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
